@@ -1,9 +1,10 @@
 .body {
-    padding: 5px 5px 10px 5px;
+  padding: 5px;
 }
 .main-body {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
+  padding: 0px 0px 20px 0px;
 }
 .question {
   display: flex;
@@ -21,10 +22,10 @@
   padding: 0 20px 0 20px;
 }
 .time-zone h3 {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 .translate {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
