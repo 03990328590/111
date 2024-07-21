@@ -1,0 +1,30 @@
+.body {
+    padding: 5px
+}
+.main-body {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+.question {
+  display: flex;
+  justify-content: center;
+}
+.replies {
+  width: fit-content;
+}
+.time-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.time-zone {
+  padding: 0 20px 0 20px;
+}
+.time-zone h3 {
+    display: flex;
+    justify-content: center;
+}
+.translate {
+    display: flex;
+    justify-content: center;
+}
